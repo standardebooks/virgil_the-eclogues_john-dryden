@@ -37,9 +37,11 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2009122149</meta>
 		<meta property="se:subject">Poetry</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Ten pastoral poems that explore themes of love, politics, and the impact of war with shepherds in idyllic rural settings.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/virgil"&gt;Virgil’s&lt;/a&gt; &lt;i&gt;Eclogues&lt;/i&gt;, also known as the &lt;i&gt;Bucolics&lt;/i&gt;, is a collection of ten pastoral poems written in Latin during the first century BC and is considered one of the most famous poems in Latin literature. The &lt;i&gt;Eclogues&lt;/i&gt; were written at a time of political and social upheaval in Rome, and they reflect the poet’s concerns about the state of the Roman Republic under Emperor Octavian’s rule.&lt;/p&gt;
+			&lt;p&gt;The poems are set in an idealized, rural landscape and feature shepherds engaging in conversations about love, politics, and the natural world. The characters and themes in the &lt;i&gt;Eclogues&lt;/i&gt; are often allegorical, representing contemporary political figures and events in a veiled manner. The poems also draw on the pastoral tradition established by earlier Greek poets like Theocritus.&lt;/p&gt;
+			&lt;p&gt;The first eclogue introduces two shepherds, Tityrus and Meliboeus, who discuss the impact of recent land expropriations on their lives. Other eclogues explore themes such as unrequited love, the idyllic rural life, and the effects of political turmoil on the countryside.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://catalog.hathitrust.org/Record/100571343</dc:source>
