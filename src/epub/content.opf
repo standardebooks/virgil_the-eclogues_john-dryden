@@ -41,7 +41,7 @@
 		<meta property="schema:genre">Poetry</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>Ten pastoral poems exploring themes of love, politics, and the impact of war.</dc:abstract>
+		<meta property="schema:abstract">Ten pastoral poems exploring themes of love, politics, and the impact of war.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/virgil"&gt;Virgil’s&lt;/a&gt; &lt;i&gt;Eclogues&lt;/i&gt;, also known as the &lt;i&gt;Bucolics&lt;/i&gt;, is a collection of ten pastoral poems written in Latin during the first century BC. It’s among the most famous cycles of poetry in Latin literature. The &lt;i&gt;Eclogues&lt;/i&gt; were written at a time of political and social upheaval in Rome, and they reflect Virgil’s concerns about the state of the Roman Republic under Augustus’s rule.&lt;/p&gt;
 			&lt;p&gt;The poems are set in an idealized, rural landscape and feature shepherds engaging in conversations about love, politics, and the natural world. The characters and themes are often allegorical, representing contemporary political figures and events in a veiled manner. The poems also draw on the pastoral tradition established by earlier Greek poets like Theocritus.&lt;/p&gt;
